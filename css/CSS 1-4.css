@@ -1,0 +1,16 @@
+HTML CSSResult Skip Results Iframe EDIT ON * {
+    line-height: 1;
+}
+
+.number__parent:nth-of-type(3n){
+    color: red;
+}
+
+.number__child {
+    padding-left: 40px;
+    color: blue;
+}
+
+.number__child:nth-of-type(3n-2){
+    color: rgb(0, 0, 0);
+}
